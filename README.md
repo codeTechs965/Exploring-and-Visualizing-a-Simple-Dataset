@@ -55,7 +55,7 @@ pip install pandas matplotlib seaborn
 ### 3. Run the script
 
 ```bash
-python main.py
+python iris.ipynb
 ```
 
 ---
